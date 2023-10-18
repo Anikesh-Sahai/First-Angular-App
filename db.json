@@ -1,0 +1,64 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appoientment",
+      "day": "25th july",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "bussiness Appoientment",
+      "day": "24th july",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Food shoping 4",
+      "day": "26th july",
+      "reminder": true
+    },
+    {
+      "id": 5,
+      "text": "Food shoping 5",
+      "day": "26th july",
+      "reminder": false
+    },
+    {
+      "text": "dfsafsadfasfd",
+      "day": "sagbdfgbs",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "abdfbsdfbsdb",
+      "day": "sb dfgbssdbsdfb",
+      "reminder": false,
+      "id": 7
+    },
+    {
+      "text": "sthstgnhsgnb",
+      "day": "gmnsryn eyjr",
+      "reminder": true,
+      "id": 8
+    },
+    {
+      "text": "ytgbvubkl",
+      "day": "olulumjpo",
+      "reminder": false,
+      "id": 9
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "email": "anikesh@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "email": "akdserher@gmail.com",
+      "password": "123456789",
+      "id": 2
+    }
+  ]
+}
